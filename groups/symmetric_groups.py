@@ -1,0 +1,2 @@
+class SymmetricGroup(groups):
+    def 
