@@ -1,1 +1,1 @@
-from object_oriented_programming.example_code import groups
+from .symmetric_groups import SymmetricGroup
